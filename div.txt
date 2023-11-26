@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is Divider for 1
-=======
 This is Divider
->>>>>>> 150887dd92603893b89f82b4857000ba038cd14b
