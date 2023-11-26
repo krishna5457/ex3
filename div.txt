@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Divider
+=======
+This is Divider for 1
+>>>>>>> 4393493 (Edits div.txt)
