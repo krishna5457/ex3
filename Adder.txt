@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-module fulladder(sum,carry,a,b,c);
+module fa(sum,carry,a,b,c);
 =======
 module fa(sum,carry,a,b,c);
 >>>>>>> mains
