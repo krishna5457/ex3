@@ -1,1 +1,1 @@
-This is Subtractor for 4 bit
+Thus is Subtractor
